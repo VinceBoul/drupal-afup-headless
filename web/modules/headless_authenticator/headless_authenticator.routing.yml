@@ -1,0 +1,7 @@
+headless_authenticator.example:
+  path: '/headless-authenticator/example'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\headless_authenticator\Controller\HeadlessAuthenticatorController::build'
+  requirements:
+    _permission: 'access content'

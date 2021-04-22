@@ -1,0 +1,4 @@
+administer headless_authenticator configuration:
+  title: 'Administer headless_authenticator configuration'
+  description: 'Optional description.'
+  restrict access: true

@@ -1,1 +1,1 @@
-drupal_afup
+## Installation du projet
